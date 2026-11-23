@@ -1,0 +1,5 @@
+streamlit>=1.51,<2
+requests>=2.31,<3
+streamlit-geolocation>=0.0.10,<0.1
+folium>=0.19,<1
+streamlit-folium>=0.25,<1
